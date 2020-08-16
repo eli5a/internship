@@ -1,0 +1,2374 @@
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 5
+
+?
+
+>
+a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 5
+
+?
+
+>
+a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 05
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 35 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Kuehlwassertemperatur: 25 °C
+
+____________________
+01 1F
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 1F
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 31 46 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Zeit seit Motorstart: 16706 s
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 4176 rpm
+
+____________________
+01 05
+ wurde gesendet
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 0 km/h
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 29 km/h
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 5
+
+?
+
+>
+a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 29 km/h
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 29 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 67 rpm
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 29 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+____________________
+01 0D
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0D
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 44 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Geschwindigkeit: 29 km/h
+
+____________________
+01 0C
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 39
+UNABLE TO CONNECT
+
+>01 0C
+SEARCHING...
+
+55 4e 41 42 4c 45 20 54 4f 20 43 4f 4e 4e 45 43 54 a a 3e 30 31 20 30 43 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+Motor-Umdrehungen: 67 rpm
+
+____________________
+
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 14
+
+SEARCHING...
+
+a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 17
+STOPPED
+
+>tz
+?
+
+>
+53 54 4f 50 50 45 44 a a 3e 74 7a a 3f a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+atz
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 20
+atz
+
+
+ELM327 v1.4
+
+>
+61 74 7a a a a 45 4c 4d 33 32 37 20 76 31 2e 34 a a 3e 
+
+____________________
+01 00
+ wurde gesendet
+Anzahl zurueckgeschickter Bytes: 19
+01 00
+SEARCHING...
+
+30 31 20 30 30 a 53 45 41 52 43 48 49 4e 47 2e 2e 2e a 

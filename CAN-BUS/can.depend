@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1476089014 source:c:\users\hile\documents\codes\can-bus\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1474538960 c:\users\hile\documents\codes\can-bus\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1475154060 source:c:\users\hile\documents\codes\can-bus\serial.cpp
+	"SerialClass.h"
+
+1477395371 source:c:\users\hile\documents\probe\can-bus\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1474538960 c:\users\hile\documents\probe\can-bus\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1475154060 source:c:\users\hile\documents\probe\can-bus\serial.cpp
+	"SerialClass.h"
+
+1475154060 source:c:\users\hile\desktop\schwarz-programm\can-bus\serial.cpp
+	"SerialClass.h"
+
+1474538960 c:\users\hile\desktop\schwarz-programm\can-bus\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477639513 source:c:\users\hile\desktop\schwarz-programm\can-bus\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1475150460 source:c:\users\hile\desktop\neustes programm\can-bus\serial.cpp
+	"SerialClass.h"
+
+1474535360 c:\users\hile\desktop\neustes programm\can-bus\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1478871567 source:c:\users\hile\desktop\neustes programm\can-bus\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+

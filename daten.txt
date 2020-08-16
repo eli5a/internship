@@ -1,0 +1,801 @@
+
+
+
+
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+
+
+
+
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+Motor-Kuehlwassertemperatur: 25 °C
+Zeit seit Motorstart: 16706 s
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 0 km/h
+Motor-Umdrehungen: 4176 rpm
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 29 km/h
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 29 km/h
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+110000 110001 100000 110000 110000 1010 1010011 1000101 1000001 1010010 1000011 1001000 1001001 1001110 1000111 101110 101110 101110 1010 
+Geschwindigkeit: 29 km/h
+
+
+
+
+SEARCHING...
+
+
+
+
+STOPPED
+
+>tz
+?
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
+
+
+
+atz
+
+
+ELM327 v1.4
+
+>
